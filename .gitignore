@@ -1,0 +1,9 @@
+MyPyQtStuff.egg-info/top_level.txt
+MyPyQtStuff.egg-info/PKG-INFO
+MyModels/__pycache__/TableModel.cpython-39.pyc
+MyModels/__pycache__/__init__.cpython-39.pyc
+MyPyQtStuff.egg-info/dependency_links.txt
+MyPyQtStuff.egg-info/SOURCES.txt
+.DS_Store
+MyWidgets/__pycache__/__init__.cpython-39.pyc
+MyWidgets/__pycache__/responsive_qlistwidget.cpython-39.pyc
