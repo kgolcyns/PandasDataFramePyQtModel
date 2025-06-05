@@ -1,6 +1,7 @@
-# pandas Data frame model
+# PandasDataFramePyQtModel
 
 Simple conviennce model of QAbstractTableModel with pandas dataframe.
+Contains base classes with built in features predefined, like tooltips, etc.
 
 ## Installation
 The Wizard will guide you through the package installation process.
